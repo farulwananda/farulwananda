@@ -4,15 +4,15 @@
 - 🌱 I’m currently learning laravel and go-lang.
 - 🥅 2021 Goals: expert using laravel.
 
-### 🔥 Github Activity Statistic
+## 🔥 Github Activity Statistic
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=farulwananda&show_icons=true&theme=nightowl&locale=en" alt="farulwananda" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=farulwananda&show_icons=true&theme=nightowl&locale=en" /></p>
 
-### ⚡ Github Language Statistic
+## ⚡ Github Language Statistic
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=farulwananda&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="farulwananda" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farulwananda&show_icons=true&theme=nightowl&locale=en"/></p>
 
-### 💻 Technology Environment
+## 💻 Technology Environment
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Google](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -30,7 +30,7 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 
-### 📫 Social Media 
+## 📫 Social Media 
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/farulwananda)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/farulwananda/)
