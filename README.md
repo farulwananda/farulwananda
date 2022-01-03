@@ -2,7 +2,7 @@
 
 - 🎓 I’m a college student in State Polytechnic of Jember.
 - 🌱 I’m currently learning laravel and go-lang.
-- 🥅 2021 Goals: expert using laravel.
+- 🥅 2022 Goals: expert using laravel.
 
 ## 🔥 Github Activity Statistic
 
