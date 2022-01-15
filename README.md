@@ -3,9 +3,8 @@
 ## 🔥 Github Activity Statistic
 
 <div>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=farulwananda&show_icons=true&theme=radical&count_private=true&locale=en"  />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farulwananda&layout=compact&theme=radical&hide=java&langs_count=6"  />
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=farulwananda&show_icons=true&theme=tokyonight&count_private=true&locale=en"  />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farulwananda&layout=compact&theme=tokyonight&hide=java&langs_count=6"  />
 </div>
 
 ## 📫 Social Media
