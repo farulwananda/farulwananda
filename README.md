@@ -1,10 +1,8 @@
-# Hello, I'm Farul Ahmad Wananda 👋
-
-## 🔥 Github Activity Statistic
+## Hello, I'm Farul Ahmad Wananda 👋
 
 <div>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=farulwananda&show_icons=true&theme=midnight-purple&count_private=true&locale=en"  />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farulwananda&layout=compact&theme=midnight-purple&hide=java&langs_count=6"  />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=farulwananda&show_icons=true&theme=vision-friendly-dark&count_private=true&locale=en"  />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farulwananda&layout=compact&theme=vision-friendly-dark&hide=java&langs_count=6"  />
 </div>
 
 ## 📫 Social Media
