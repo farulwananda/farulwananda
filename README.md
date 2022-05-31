@@ -10,10 +10,11 @@ A college student who loves technology and creating projects about web and multi
 
 ## Github Statistics
 
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=farulwananda&show_icons=true&theme=react&count_private=true&locale=en&hide=stars"  />
+<div>
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=farulwananda&show_icons=true&theme=react&count_private=true&locale=en&hide=stars"  />
   
-  <img height="146" src="https://github-readme-stats.vercel.app/api/wakatime?username=farulwananda&layout=compact&theme=react&langs_count=5" />
-
+  <img height="140" src="https://github-readme-stats.vercel.app/api/wakatime?username=farulwananda&layout=compact&theme=react&langs_count=5" />
+</div>
 ## Social Media
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/farulwananda/)
