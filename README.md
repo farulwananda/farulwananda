@@ -1,22 +1,20 @@
-### Hi, I'm Farul 💫
+# Hi, I'm Farul 👋
 
-An college student who love technology and create projects about web and multi-platform apps.
+A college student who loves technology and creating projects about web and multi-platform apps.
 
 - 🔭 I’m currently study at State Polytechnic Of Jember
-- 🌱 I’m currently learning about flutter technology for multi-platform apps
-- 💬 Feel free to ask me about web development or flutter
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/farulwananda/)
-- ⚡ Fun fact: Love mmorpg
+- 🌱 I’m currently learning about react and next.js
+- 💬 Feel free to ask me about web development
+- 📫 How to reach me: [Farul Wananda](https://www.linkedin.com/in/farulwananda/)
+- ⚡ Fun fact: love MMORPG
 
-### 🚀 Github Statistic
+## Github Statistics
 
-<div>
-  <img height="154" src="https://github-readme-stats.vercel.app/api?username=farulwananda&show_icons=true&theme=dracula&count_private=true&locale=en&hide=stars"  />
-  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farulwananda&layout=compact&theme=dracula&hide=java,html,css,cmake,c,swift,kotlin,shell,objective-c,blade,c%2B%2B&langs_count=6"  />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=farulwananda&layout=compact&theme=dracula&langs_count=5" />
-</div>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=farulwananda&show_icons=true&theme=react&count_private=true&locale=en&hide=stars"  />
+  
+  <img height="146" src="https://github-readme-stats.vercel.app/api/wakatime?username=farulwananda&layout=compact&theme=react&langs_count=5" />
 
-### 📬 Social Media
+## Social Media
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/farulwananda/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farulwananda/)
