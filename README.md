@@ -15,6 +15,7 @@ A college student who loves technology and creating projects about web and multi
   
   <img height="140" src="https://github-readme-stats.vercel.app/api/wakatime?username=farulwananda&layout=compact&theme=react&langs_count=5" />
 </div>
+
 ## Social Media
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/farulwananda/)
