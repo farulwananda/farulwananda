@@ -13,7 +13,7 @@ A college student who loves technology and creating projects about web and multi
 <div>
   <img height="140" src="https://github-readme-stats.vercel.app/api?username=farulwananda&show_icons=true&theme=react&count_private=true&locale=en&hide=stars"  />
   
-  <img height="140" src="https://github-readme-stats.vercel.app/api/wakatime?username=farulwananda&layout=compact&theme=react&langs_count=5" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/wakatime?username=farulwananda&layout=compact&theme=react&langs_count=6" />
 </div>
 
 ## Social Media
