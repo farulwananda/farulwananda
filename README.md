@@ -1,14 +1,6 @@
 # Hi, I'm Farul 👋
 
-A college student who loves technology and creating projects about web and multi-platform apps.
-
-- 🔭 I’m currently study at State Polytechnic Of Jember
-- 🌱 I’m currently learning about react and next.js
-- 💬 Feel free to ask me about web development
-- 📫 How to reach me: [Farul Wananda](https://www.linkedin.com/in/farulwananda/)
-- ⚡ Fun fact: love MMORPG
-
-## Github Statistics
+[![@farulwananda's Holopin board](https://holopin.io/api/user/board?user=farulwananda)](https://holopin.io/@farulwananda)
 
 <div>
   <img height="140" src="https://github-readme-stats.vercel.app/api?username=farulwananda&show_icons=true&theme=react&count_private=true&locale=en&hide=stars"  />
