@@ -7,9 +7,3 @@
   
   <img align="right" height="140" src="https://github-readme-stats.vercel.app/api/wakatime?username=farulwananda&layout=compact&theme=react&langs_count=6" />
 </div>
-
-## Social Media
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/farulwananda/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farulwananda/)
-[![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/farulwananda)
