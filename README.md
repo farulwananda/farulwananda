@@ -1,9 +1,9 @@
 
 # 👋 Hi, I'm Farul
 
-> Software Engineer and Back-end Developer
+> Software Engineer
 
-Currently a polytechnic student in informatics engineering. Working in the laravel ecosystem, excited to learn new technologies, and open to collaborating on projects.
+Working in the laravel ecosystem, excited to learn new technologies, and open to collaborating on projects.
 
 ### Statistics:
 
