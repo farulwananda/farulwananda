@@ -1,57 +1,38 @@
-# 👋 Hi, I'm Farul
+# Farul Ahmad Wananda
 
-**Full Stack Web Developer**
+**Software Engineer · Backend & DevOps**
 
-I am a developer who loves building robust backend systems and managing infrastructure. My core focus is on creating scalable applications, integrating complex APIs, and ensuring seamless deployments. I take a hands-on approach to server management and enjoy solving intricate architectural challenges.
+I build and maintain production web applications, backend services, and data-intensive systems. My work spans academic information systems, social media monitoring, REST APIs, third-party integrations, and large-scale data migration. I also manage deployments and troubleshoot production applications and databases across VPS environments and Google Cloud, with a focus on reliability and maintainability.
 
-Currently, I specialize in the **Laravel ecosystem** for high-performance applications while actively exploring Python and modern cloud technologies. I am highly adaptable, leveraging **AI-driven development workflows** to maximize efficiency and deliver top-tier results.
+Based in Bondowoso, East Java, Indonesia.
 
-Beyond coding, I am deeply interested in mastering **efficient server management**, as I currently handle multiple deployment environments and aim to optimize their performance and reliability.
+## Experience
 
----
+- **Founder & Software Engineer · KodeKarsa** (2026–present) — Build web applications and backend services; design application architecture, APIs, and data workflows with TanStack, Bun, and TypeScript.
+- **Software Engineer · Masoem University** (2025–present) — Develop an integrated academic information system, process millions of legacy academic records with Go, and support deployments and production operations.
+- **Software Engineer · PT Media Promosi Online** (2024–present) — Develop web applications, backend services, and integrations; contribute to social media monitoring and analytics workflows; manage VPS deployments and production issues.
+- **Backend Developer Intern · PT Mangli Djaya Raya** (2023) — Built API components for Besuki Raya Cigar's point-of-sale application with PHP and CodeIgniter 3.
+- **Cloud Computing · Bangkit Academy** (2023) — Completed the Cloud Computing learning path and collaborated on a multidisciplinary capstone application.
 
-### 👨‍💻 Experience & Education
+## Selected work
 
-� **Software Engineer at Private Company**
+- [KodeKarsa](https://kodekarsa.com) — Product engineering studio for web applications and backend services; I work across architecture, APIs, implementation, and deployment.
+- [RajaMonitoring](https://rajamonitoring.com) — Social media and online news monitoring; I worked on collecting and processing millions of records, topic search, sentiment analysis, and presenting trends.
+- [Welcome.to](https://welcome.to) — Digital profile platform; I developed backend APIs, data structures, integrations, and engagement analytics.
 
-> Currently working as a Full Stack Web Developer, collaborating with a team to build and maintain various websites and APIs.
+## Technical focus
 
-�🎓 **Politeknik Negeri Jember**
+| Area | Technologies |
+| --- | --- |
+| Backend & APIs | PHP, Laravel, CodeIgniter 3, Go, Python, Bun, REST APIs |
+| Web & TypeScript | Next.js, TypeScript, JavaScript, Tailwind CSS, Alpine.js, Livewire |
+| Data & integration | PostgreSQL, MySQL, Redis, data migration, API integration |
+| Cloud & operations | Google Cloud, Linux, VPS, cPanel, deployment, production troubleshooting |
 
-> **Teknik Informatika (GPA: 3.86/4.00)**
-> Focus on software engineering and information systems.
+## Education
 
-🎓 **Bangkit Academy Graduate (Cloud Computing)**
+**Politeknik Negeri Jember** · Information Technology (D4), 2020–2024 · GPA 3.86/4.00
 
-> Deep dived into Google Cloud Platform (GCP), Docker, and backend development with JavaScript & Express.js.
+## Contact
 
-🏢 **Internship at PT Mangli Djaya Raya**
-
-> Developed the backend for a cigar sales application for a subsidiary company using **PHP** and **CodeIgniter 3**, integrating complex data management systems.
-
-☁️ **Server & Domain Management**
-
-> Proficient in managing VPS environments using **aaPanel**, **cPanel**, **Coolify**, or manually via **CLI** (no panel).
-
----
-
-### 🛠️ Tech Stack & Skills
-
-| Category                    | Technologies                                                                                 |
-| :-------------------------- | :------------------------------------------------------------------------------------------- |
-| **Backend Engineering**     | **PHP**, **Laravel** (Reverb, Queues, Scheduler), **CodeIgniter 3**, **Python**, **FastAPI** |
-| **Infrastructure & DevOps** | **aaPanel** (VPS Management), **Docker**, **Nginx**, **GCP**, **Cloudflare**                 |
-| **Integrations**            | **Payment Gateways** (PayPal, Midtrans, Xendit), **REST APIs**                               |
-| **Tools & Workflow**        | **Git**, **Composer**, **Postman**, **Swagger**                                              |
-| **Environment**             | **MacBook**, **Laravel Herd**                                                                |
-| **IDE & Editors**           | **Google Antigravity**, **VS Code**, **Pycharm**                                             |
-| **Database Management**     | **Sequel Ace**                                                                               |
-| **Terminal & SSH**          | **Warp**, **Termius**, **Oh My Zsh**                                                         |
-| **AI & Productivity**       | **GPT Codex**, **Gemini Pro**, **Obsidian**, **Notion**                                      |
-| **Languages**               | 🇮🇩 **Indonesian** (Native), 🇺🇸 **English** (Intermediate)                                    |
-
----
-
-💬 Say "Hi" to me via: [LinkedIn](https://linkedin.com/in/farulwananda), [Twitter](https://twitter.com/farulwananda), [Instagram](https://instagram.com/farulwananda)
-
-Enjoy your day!
+[CV](https://cv.farulwananda.my.id/en/) · [LinkedIn](https://linkedin.com/in/farulwananda) · [Email](mailto:farulwananda@outlook.com)
