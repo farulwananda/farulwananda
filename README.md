@@ -4,8 +4,6 @@
 
 I build and maintain production web applications, backend services, and data-intensive systems. My work spans academic information systems, social media monitoring, REST APIs, third-party integrations, and large-scale data migration. I also manage deployments and troubleshoot production applications and databases across VPS environments and Google Cloud, with a focus on reliability and maintainability.
 
-Based in Bondowoso, East Java, Indonesia.
-
 ## Experience
 
 - **Founder & Software Engineer · KodeKarsa** (2026–present) — Build web applications and backend services; design application architecture, APIs, and data workflows with TanStack, Bun, and TypeScript.
