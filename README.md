@@ -33,4 +33,4 @@ I build and maintain production web applications, backend services, and data-int
 
 ## Contact
 
-[CV](https://cv.farulwananda.my.id/en/) · [LinkedIn](https://linkedin.com/in/farulwananda) · [Email](mailto:farulwananda@outlook.com)
+[CV](https://farulwananda.my.id/) · [LinkedIn](https://linkedin.com/in/farulwananda) · [Email](mailto:farulwananda@outlook.com)
